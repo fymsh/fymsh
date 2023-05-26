@@ -22,4 +22,6 @@
 [![](https://visitcount.itsvg.in/api?id=fymsh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating 🗣📝
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/fymsh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fymsh) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/fymsh) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://bmc.link/fymsh) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/fymsh) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/fymsh) [![SociaBuzz](https://img.shields.io/badge/-SociaBuzz-brightgreen)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsociabuzz.com%2Ftribe&psig=AOvVaw31irMociWKyZ7GlZpR38dX&ust=1685172418783000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOi06Mu6kv8CFQAAAAAdAAAAABAX)
+
+
