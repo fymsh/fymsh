@@ -1,5 +1,5 @@
 # 💀 About Me:
-### noob
+### taikucing
 
 
 # 💻 Tech Stack:
